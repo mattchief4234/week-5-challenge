@@ -1,0 +1,40 @@
+* {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+header {
+    background-image: url('../photos/clouds.JPG');
+    height: 350px;
+    background-repeat: no-repeat;
+}
+.header {
+    display: flex;
+    margin: auto;
+    font-size: 80px;
+    color: white;
+    align-items: center;
+    font-family: 'Oswald', sans-serif;
+}
+
+.sub-header {
+    display: flex;
+    margin: auto;
+    font-size: 30px;
+    color: white;
+    background-color:rgb(84, 163, 209);
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    
+}
+
+/* .row {
+    display: flex;
+    flex: wrap;
+
+
+} */
+
+.hallways {
+
+}
